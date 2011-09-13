@@ -1,0 +1,10 @@
+CHESS BOARD
+
+A small program used to print a 8x8 black-white chess board on a terminal.
+The program doesn't use any graphic library. Instead, it uses the terminal's own capability (which is changing background color) to display the board.
+
+Note: That the board is really square or not depends on the terminal's font type and font size.
+Quite *square* with Monospace 10 (in Ubuntu).
+
+Build: ./make
+Use: ./chess_board
